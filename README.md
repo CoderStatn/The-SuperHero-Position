@@ -1,10 +1,5 @@
-# Live Site Link
-    https://skf.netlify.app
-## SKF New Film Member Audition
-    Salman Khan Films (SKF) 
+# Sam's Dance Academy
 
-### Audition for Hero and Herion
-    Its an audition Website for bolloywood super stars.
+its a dance school;
 
-#### Hire Super Stars
-    After the audition you can finally hire them
+# https://samsdance-academys.netlify.app
